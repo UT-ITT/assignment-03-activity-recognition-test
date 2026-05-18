@@ -3,4 +3,3 @@ numpy
 pyglet
 sklearn
 matplotlib
-seaborn
