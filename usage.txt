@@ -1,0 +1,11 @@
+gathe_data.py:
+To start recording, press button 1. The recording starts as soon as the button is released
+After 10 seconds, it will wait for button 1 again. 
+After 5 recordings, it will switch to the next activity automatically.
+
+fitness_trainer.py:
+start fintess_trainer.py and wait for the data to be processed
+connect your DIPPID device
+start exercising
+the timer for the detected exercise will increase
+close using ESC (then the training of the SVM will be plotted)
