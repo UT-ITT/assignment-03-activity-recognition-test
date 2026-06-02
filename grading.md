@@ -1,4 +1,4 @@
-# Samuel & Anja (11.5/15P)
+# Samuel & Anja (12/15P)
 
 ## Gathering Tracking Data (4.5/5P)
 * data is logged correctly
@@ -10,7 +10,7 @@
 * enough data sets captured
     * yep (1P)
 
-## Acticity Recognition (7.5/10P)
+## Acticity Recognition (8/10P)
 * the program loads training data correctly
     * yep (1P)
 * training data is pre-processed appropiately
